@@ -148,7 +148,7 @@
   font-size: 4rem;
 }
 
-section {
+/* section {
   display: none;
   justify-content: center;
   align-items: center;
@@ -171,9 +171,9 @@ section {
   }
 }
 
-/* .glowing.active {
+.glowing.active {
   display: flex;
-} */
+}
 
 .icon {
   position: relative;
@@ -217,4 +217,4 @@ section {
   60% {
     width: 113.72px;
   }
-}
+} */
