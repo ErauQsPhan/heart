@@ -274,11 +274,9 @@ var ParticlePool = (function () {
 const loveBtn = document.querySelector('.button-love');
 const container = document.querySelector('.container');
 const box = document.querySelector('.box');
-const glowing = document.querySelector('.glowing');
 
 loveBtn.addEventListener('click', ()=> {
   box.classList.add('active');
   container.classList.add('change');
-  glowing.classList.add('active');
   loveBtn.classList.add('close')
 })
