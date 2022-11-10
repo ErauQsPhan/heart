@@ -171,9 +171,9 @@ section {
   }
 }
 
-.glowing.active {
+/* .glowing.active {
   display: flex;
-}
+} */
 
 .icon {
   position: relative;
